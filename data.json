@@ -1,0 +1,173 @@
+[
+    {
+        "id": "6758b765d7d37",
+        "name": "How To Manage",
+        "quantity": 40,
+        "borrowed": 31,
+        "createdAt": "2024-12-10 22:49:25",
+        "createdBy": "george fawzi",
+        "borrowedTo": [
+            {
+                "name": "Karas",
+                "checkoutDate": "2024-12-11 23:38:14",
+                "returnDate": "2024-12-13",
+                "numBooks": "10"
+            },
+            {
+                "name": "gggg",
+                "checkoutDate": "2024-12-11 23:51:20",
+                "returnDate": "2024-12-19",
+                "numBooks": "4"
+            }
+        ],
+        "updatedBy": "george fawzi",
+        "updatedAt": "2024-12-10 23:26:14"
+    },
+    {
+        "id": "6758c1cf0ca09",
+        "name": "book 2",
+        "quantity": 20,
+        "borrowed": 11,
+        "createdAt": "2024-12-10 23:33:51",
+        "createdBy": "george fawzi",
+        "borrowedTo": [
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "fff",
+                "checkoutDate": "2024-12-12 00:33:52",
+                "returnDate": "2024-12-20"
+            }
+        ],
+        "updatedBy": "george fawzi",
+        "updatedAt": "2024-12-12 00:33:52"
+    },
+    {
+        "id": "6758c1dac2b93",
+        "name": "book 3",
+        "quantity": 5,
+        "borrowed": 5,
+        "createdAt": "2024-12-10 23:34:02",
+        "createdBy": "george fawzi",
+        "borrowedTo": [
+            {
+                "name": "joj",
+                "checkoutDate": "2024-12-12 00:32:55",
+                "returnDate": "2024-12-19"
+            }
+        ],
+        "updatedBy": "george fawzi",
+        "updatedAt": "2024-12-12 00:33:19"
+    },
+    {
+        "id": "675a1a3f55d2d",
+        "name": "Java Script",
+        "quantity": 33,
+        "borrowed": 15,
+        "borrowedTo": [
+            {
+                "name": "Karas Geor",
+                "checkoutDate": "2024-12-12 00:03:54",
+                "returnDate": "2024-12-14",
+                "numBooks": "3"
+            },
+            {
+                "name": "Pul",
+                "checkoutDate": "2024-12-12 00:16:16",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "Pul",
+                "checkoutDate": "2024-12-12 00:16:16",
+                "returnDate": "2024-12-20"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            },
+            {
+                "name": "hossam",
+                "checkoutDate": "2024-12-12 00:18:23",
+                "returnDate": "2024-12-18"
+            }
+        ],
+        "createdBy": "george fawzi",
+        "createdAt": "2024-12-12 00:03:27",
+        "updatedBy": null,
+        "updatedAt": "2024-12-12 00:19:00"
+    }
+]
